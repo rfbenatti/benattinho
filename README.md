@@ -1,10 +1,10 @@
-- 👋 Hi, I’m @benattinho, a Environmental Engineering Double Degree student from University of São Paulo (USP) and Instituto Superior Técnico (IST/ULisboa). Right now I'm currently on the beginning of my theses, on ruptures detection of water distribution systems. 
+- 👋 Hi, I’m @benattinho, a Environmental Engineering Double Degree student from University of São Paulo (USP) and Instituto Superior Técnico (IST/ULisboa). Right now I'm currently on the beginning of my thesis, on ruptures detection of water distribution systems. 
 
 - 👀 I’m interested in water engineering, programming, building tools to be applied in people's lifes and running away from typical bureaucratic companies :) 
 
 - I love playing my acoustic guitar (MPB/Bossa Nova fan) in my free time, reading and water sports. 
 
-- 🌱 I’m currently learning Python and SQL, and already stepping in Javascript.
+- 🌱 I’m currently learning Elixir and SQL, and already know Python.
 
 - 📫 How to reach me: 
 
